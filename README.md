@@ -12,37 +12,25 @@ I live in Sysslomansgatan, Uppsala, Sweden. I play badminton twice a week and en
 
 ### Previous jobs
 
-* [Billogram](http://billogram.com) - 2016 - Developer
+* **[Billogram](http://billogram.com) - 2016 - Developer** Back and frontend developer focusing on Javascript, Python and PHP
 
-Back and frontend developer focusing on Javascript, Python and PHP
+* **[SJ](http://sj.se) - 2013-2015 - Developer** - Back and frontend developer focusing on PHP, MySQL and Javascript
 
-* [SJ](http://sj.se) - 2013-2015 - Developer
+* **[Uppsala Kommun](http://uppsala.se) - 2013 - Developer** Developed small apps used in snow-handling. Primarily PHP, Javascript and GIS
 
-Back and frontend developer focusing on PHP, MySQL and Javascript
+* **[Improveme](http://improveme.se) 2012-2013 - CTO** Managed the site including servers, developing and marketing. 
 
-* [Uppsala Kommun](http://uppsala.se) - 2013 - Developer
+* **[Stockholms länslandsting](http://www.sll.se/) - 2010 - First line support** IT-support for applications used in Healthcare
 
-Developed small apps used in snow-handling. Primarily PHP, Javascript and GIS
-
-* [Improveme](http://improveme.se) 2012-2013 - CTO
-
-Managed the site including servers, developing and marketing. 
-
-* [Stockholms länslandsting](http://www.sll.se/) - 2010 - First line support
-
-IT-support for applications used in Healthcare
-
-* [ICA Luthagens Livs](https://www.ica.se/butiker/supermarket/uppsala/ica-supermarket-luthagens-livs-1495/start/) - 2005-2012 - Shop assistant
-
-Cashiering and refilling shelfs
+* **[ICA Luthagens Livs](https://www.ica.se/butiker/supermarket/uppsala/ica-supermarket-luthagens-livs-1495/start/) - 2005-2012 - Shop assistant** Cashiering and refilling shelfs
 
 ### Education
 * 2016 - Now: Uppsala University - Teacher education
 * 2006 - 2009: John Bauergymnasiet - IT/Network program
 
 ### Skills
-* Web: HTML, CSS, Javascript, AngularJS, PHP, Python, ReactJS
-* Server: Windows, Linux, OS X, MySQL/NoSQL, Apache/Nginx, Networks
+* Web: **HTML**, CSS, **Javascript**, AngularJS, **PHP**, Python, ReactJS
+* Server: **Windows**, **Linux**, OS X, **MySQL**/NoSQL, **Apache**/Nginx, Networks
 
 ### Languages
 * Swedish (Native)
