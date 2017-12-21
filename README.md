@@ -18,7 +18,9 @@ I live in Sysslomansgatan, Uppsala, Sweden. I play badminton twice a week and en
 
 * **[Uppsala Kommun](http://uppsala.se) - 2013 - Developer** Developed small apps used in snow-handling. Primarily PHP, Javascript and GIS
 
-* **[Improveme](http://improveme.se) 2011-2013 - CTO** Managed the site including servers, developing and marketing. 
+* **[Improveme](http://improveme.se) 2012-2013 - CTO** Managed the site including servers, developing and marketing. 
+
+* **[Fronto](http://www.fronto.se/) 2011-2012 - Developer** Developed a cloud storage solution in PHP based on Open source code
 
 * **[Stockholms länslandsting](http://www.sll.se/) - 2010 - First line support** IT-support for applications used in Healthcare
 
