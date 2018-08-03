@@ -8,7 +8,7 @@ I live in Sysslomansgatan, Uppsala, Sweden. I play badminton twice a week and en
 * Phone: (+46)735696870
 * Email: daniel.olov.westerling@gmail.com
 
-![Image of Daniel](https://scontent.fbma2-1.fna.fbcdn.net/v/t1.0-9/22228496_10155088135451909_731543235580180837_n.jpg?oh=90aec3ad9ab39634154019954f2453d7&oe=5AB8F2F7)
+![Image of Daniel](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/22228496_10155088135451909_731543235580180837_n.jpg?_nc_cat=0&oh=ae729e8d558d09710ac1775bdffadfe7&oe=5BCDCDF7)
 
 ### Previous jobs
 
