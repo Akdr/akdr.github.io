@@ -8,7 +8,7 @@ I live in Uppsala, Sweden. I play badminton twice a week and enjoy hanging out w
 * Phone: (+46)735696870
 * Email: daniel@westerling.io
 
-![Image of Daniel](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/22228496_10155088135451909_731543235580180837_n.jpg?_nc_cat=0&oh=ae729e8d558d09710ac1775bdffadfe7&oe=5BCDCDF7)
+![Image of Daniel](https://i.imgur.com/AAMUWYj.png)
 
 ### Current Job
 
