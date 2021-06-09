@@ -18,7 +18,7 @@ Before **SJ**, I was a IT-manager/Developer at **Improveme.se** with a magazine 
     
 Improveme Online Network had (when I worked there) week 44 in 2012 780 000 unique visitors, top 20 largest sites in Sweden.
     
-I have also worked in first line support for Stockholm Hospitals and 6 years in a grocery store, so I have acquired some social/customer skills along the way.
+I have also worked in a grocery store for 6 years, so I have acquired some social/customer skills along the way.
     
 
 ### Current Job
