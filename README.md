@@ -4,8 +4,9 @@
 Primarily I am a PHP-developer with huge interest of learning more, and that had lead me to my position right now; Senior Developer and Consultant at **Entire**.
 
     
-Previously to this I worked as an CTO for **Comparico**, taking the lead in our projects to streamlining our process of implementing the archive software to our clients.
+Previously to this I worked as an CTO for **Comparico**.
 My days consisted of managing the workload and workflow of the other developer. This means planning the architectural-, structural- and agile setting and making sure that the rest of the team and company have the tools necessary to make wonders happen. 
+
 The goal is to decrease "grindy" and time-consuming tasks in the work environment and increasing the time doing the parts that are fun and important to them and Comparico.
 
 I also continue to code, heading our data gathering service for the Telecom-side of our business.
