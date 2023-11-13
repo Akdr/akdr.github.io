@@ -1,17 +1,18 @@
 ## Resume
 
 ### About me
-Primarily I am a PHP-developer with huge interest of learning more, and that had lead me to my position right now; Senior Developer and Consultant at **Entire**.
+Primarily I am a PHP-developer with huge interest of learning more, and that had lead me to my position right now; in the startup phase of my own freelancing firm.
 
-    
+Just recently I was Senior Developer and Consultant at **Entire**. The company went bankrupt in 2023, so I am currently looking for new opportunities.
+
 Previously to this I worked as an CTO for **Comparico**.
-My days consisted of managing the workload and workflow of the other developer. This means planning the architectural-, structural- and agile setting and making sure that the rest of the team and company have the tools necessary to make wonders happen. 
+> My days consisted of managing the workload and workflow of the other developer. This means planning the architectural-, structural- and agile setting and making sure that the rest of the team and company have the tools necessary to make wonders happen. 
 
 The goal is to decrease "grindy" and time-consuming tasks in the work environment and increasing the time doing the parts that are fun and important to them and Comparico.
 
 I also continue to code, heading our data gathering service for the Telecom-side of our business.
 
-Previously to this I worked as an IT/Archive-consultant for ArkivIT, taking the lead in our projects to streamlining our process of implementing the archive software to our clients.
+> Previously to this I worked as an IT/Archive-consultant for ArkivIT, taking the lead in our projects to streamlining our process of implementing the archive software to our clients.
 
 Before **ArkivIT** I studied to become a teacher in IT and Geography but aborted it because I decided it wasn't for me, longing back to the tech industry.
     
@@ -26,10 +27,11 @@ I have also worked in a grocery store for 6 years, so I have acquired some socia
 
 ### Current Job
 
-* **[Entire](http://entire.se/) - 2022 - Now - Senior Developer and Consultant** At Entire I develop applications for a single client in PHP, Mysql, Typescript, ReactJS and a bit of Go.
-
+* **[Akdr](https://akdr.se)  - Nov 2023 - Now** Currently looking to start a freelance career for my own company 
 
 ### Previous jobs
+
+* **[Entire](http://entire.se/) - 2022 - Nov 2023 - Senior Developer and member of CTO-board** At Entire I develop applications for a single client in PHP, Mysql, Typescript, ReactJS and a bit of Go. I also take part in what we call a CTO-board. A smaller taskforce for the company that helps them with their technical decisions and architecture. Entire went bankcrupt in 2023. Among my clients were [Medieinstitutet](https://medieinstitutet.se/) where I was a teacher to a Yrkesutbildning and [Symplify](https://symplify.com/) where we developed their A/B-testing platfor.
 
 * **[Comparico](https://comparico.se) - 2019 - 2022 - CTO** Comparico is a company that is primarily doing comparison services in the fields of Economy, Insurance and Telecom.
   We run 15 primary sites with 70-80 supportive sites, in an complex product-data gathering, "customer first"-centric environment.
